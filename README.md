@@ -1,4 +1,4 @@
-[![axone github banner]([[https://raw.githubusercontent.com/axone-protocol/.github/main/profile/static/axone-banner.png)](https://axone.xyz](https://ibb.co/FkV5Gh2V)](https://ibb.co/FkV5Gh2V))
+[![axone github banner](https://ibb.co/FkV5Gh2V))
 
 <p align="center">
   <a href="https://discord.gg/axone"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a> &nbsp;
